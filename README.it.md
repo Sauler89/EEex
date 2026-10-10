@@ -59,7 +59,7 @@ EEex non dipende da altri mod e può quindi essere collocato in qualsiasi punto 
 Esiste un'eccezione: alcuni negozi digitali, in particolare Steam, distribuiscono il DLC Siege of Dragonspear per BG:EE come archivio ZIP. Questo archivio deve essere unito al gioco di base prima di installare qualsiasi mod. In questo caso, <a href="https://github.com/Argent77/A7-DlcMerger/releases">DLC Merger</a> deve essere il primo mod nell'ordine di installazione, prima di EEex.
 <br>
 <br>
-In generale, è buona norma collocare EEex all'inizio dell'ordine di installazione, perché deve precedere tutti i mod che lo richiedono o che ne rilevano la presenza per attivare funzionalità aggiuntive.
+In generale, è buona norma collocare EEex tra i primi mod nell'ordine di installazione, perché deve precedere tutti i mod che lo richiedono o che ne rilevano la presenza per attivare funzionalità aggiuntive.
 <br>
 <br>
 <br>
@@ -107,7 +107,7 @@ Poiché EEex applica modifiche in memoria, gli antivirus potrebbero segnalare In
 
 <br>
 <h1>Documentazione</h1>
-EEex usa ampiamente l'ambiente Lua delle Enhanced Edition e implementa la maggior parte delle sue funzionalità in codice Lua. Queste includono nuove funzioni Lua, opcode, azioni di script, trigger e oggetti. Consulta la <a href="https://eeex-docs.readthedocs.io/en/latest/">documentazione di EEex</a> per una panoramica delle funzionalità.
+EEex usa ampiamente l'ambiente Lua delle Enhanced Edition e implementa la maggior parte delle sue funzionalità in codice Lua. Queste includono nuove funzioni Lua, opcode, azioni di script, trigger e oggetti di script. Consulta la <a href="https://eeex-docs.readthedocs.io/en/latest/">documentazione di EEex</a> per una panoramica delle funzionalità.
 <br>
 <br>
 La documentazione è ancora in sviluppo. Se vuoi contribuire, visita la pagina <a href="https://eeex-docs.readthedocs.io/en/latest/Community/contributing.html">contributing</a> per maggiori dettagli.

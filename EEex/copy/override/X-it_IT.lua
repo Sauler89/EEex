@@ -5,7 +5,7 @@
 
 uiStrings["EEex_Options_TRANSLATION_Menu_TabTitle"] = "Menu"
 
-uiStrings["EEex_Options_TRANSLATION_Menu_UniversalScrollbarPadCollapsing"] = "Riduci il margine delle barre di scorrimento"
+uiStrings["EEex_Options_TRANSLATION_Menu_UniversalScrollbarPadCollapsing"] = "Elimina il margine senza barra di scorrimento"
 
 uiStrings["EEex_Options_TRANSLATION_Menu_UniversalScrollbarPadCollapsing_Description"] = [[
 Elimina automaticamente il margine fisso di 16 pixel a destra del testo quando la grafica della barra di scorrimento è nascosta.
@@ -116,11 +116,11 @@ uiStrings["EEex_Options_TRANSLATION_AttackInfo_ImmunityDisplayType"] = "Visualiz
 uiStrings["EEex_Options_TRANSLATION_AttackInfo_ImmunityDisplayType_Description"] = [[
 Il metodo usato per mostrare le immunità del bersaglio nella finestra.
 
-'Colore' - Cambia il colore delle probabilità di colpire nelle voci per cui il bersaglio è immune agli attacchi dell'attaccante.
+'Colore' - Cambia il colore della probabilità di colpire mostrata in percentuale quando il bersaglio è immune all'arma dell'attaccante.
 
 'Nessuna' - Non mostra informazioni sulle immunità.
 
-'Testo' - Sostituisce le probabilità di colpire nelle voci per cui il bersaglio è immune agli attacchi dell'attaccante.
+'Testo' - Sostituisce con un testo la probabilità di colpire mostrata in percentuale quando il bersaglio è immune all'arma dell'attaccante.
 ]]
 
 uiStrings["EEex_Options_TRANSLATION_AttackInfo_ImmunityDisplayType_Color"] = "Colore"
@@ -159,7 +159,7 @@ uiStrings["EEex_Options_TRANSLATION_AttackInfo_ShowColumnHeaders_Description"] =
 Stabilisce se usare la prima riga dell'elenco delle informazioni nella finestra per mostrare le intestazioni delle colonne.
 ]]
 
-uiStrings["EEex_Options_TRANSLATION_AttackInfo_HideUnusedOffhandHeader"] = "Nascondi l'intestazione della mano secondaria inutilizzata"
+uiStrings["EEex_Options_TRANSLATION_AttackInfo_HideUnusedOffhandHeader"] = "Nascondi intestazione secondaria vuota"
 
 uiStrings["EEex_Options_TRANSLATION_AttackInfo_HideUnusedOffhandHeader_Description"] = [[
 Stabilisce se nascondere l'intestazione della colonna della mano secondaria quando la vista corrente non contiene voci da mostrare in quella colonna.
