@@ -7,4 +7,5 @@
 /.gitignore export-ignore
 /EEex.png export-ignore
 /README.md export-ignore
+/README.it.md export-ignore
 /package_mod.bat export-ignore

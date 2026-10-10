@@ -1,5 +1,7 @@
 # ![EEex Logo](EEex.png)
 
+[Leggi il README in italiano](README.it.md)
+
 - [Overview](#overview)
 - [Compatibility](#compatibility)
 - [Download](#download)

@@ -25,6 +25,8 @@
 !/EEex/language/schinese/*.*
 !/EEex/language/spanish
 !/EEex/language/spanish/*.*
+!/EEex/language/italian
+!/EEex/language/italian/*.*
 !/EEex/lib
 !/EEex/lib/*.*
 !/EEex/loader
@@ -72,3 +74,4 @@
 !/EEex.png
 !/package_mod.bat
 !/README.md
+!/README.it.md

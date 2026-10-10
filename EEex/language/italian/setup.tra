@@ -5,12 +5,12 @@
 // Component names
 @0 = ~Nucleo del menu rapido~
 @1 = ~EEex~
-@2 = ~Attiva il modulo Menu degli effetti: tieni premuto Maiusc sinistro mentre passi il puntatore su una creatura per vedere gli incantesimi che hanno effetto sulla creatura~
+@2 = ~Attiva il modulo Menu degli effetti: tieni premuto Maiusc sinistro mentre passi il puntatore su una creatura per vedere gli incantesimi attivi su di essa~
 @3 = ~Attiva il modulo Contenitori vuoti: evidenzia i contenitori vuoti in grigio anziché in ciano~
 @4 = ~Attiva il modulo Tasti di scelta rapida: modifica override/B3Hotkey.lua per creare tasti di scelta rapida avanzati per gli incantesimi~
 @5 = ~Attiva il modulo Ridimensionamento: fattore di scala personalizzabile dell'interfaccia utente~
 @6 = ~Attiva il modulo Avanzamento temporale: avanza di 1 tick di gioco alla pressione di un tasto~
-@7 = ~Attiva il modulo Timer: indicatori visivi per azioni modali, contingenze e tempi di recupero di incantesimi/oggetti~
+@7 = ~Attiva il modulo Timer: indicatori visivi per azioni modali, Contingenza e tempi di recupero di incantesimi/oggetti~
 @8 = ~Sperimentale - Usa LuaJIT: può aiutare a ridurre gli scatti | ATTENZIONE: può causare arresti anomali in combinazione con alcuni mod~
 @9 = ~Attiva il modulo Informazioni di attacco: mostra la probabilità di colpire quando il cursore d'attacco è posizionato sul bersaglio~
 
